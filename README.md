@@ -22,4 +22,4 @@ If you want to see more of my work, [my portfolio is here](#).
 
 ---
 
-📬 Reach me at [jonathanlecontact@gmail.com](mailto:jonathanlecontact@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jonathanledata)
+📬 Reach me at [jonathanlecontact@gmail.com](mailto:jonathanlecontact@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jonathanlecontact)
