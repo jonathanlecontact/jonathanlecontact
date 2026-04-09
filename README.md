@@ -8,7 +8,7 @@ My main stack is SQL, Python, Tableau, and Power BI. I also spend a lot of time 
 
 I'm currently wrapping up a Data Analytics Fellowship through COOP Careers while working as a Technical Support Engineer at Cognizant supporting Google AR & VR. Before tech, I spent two years as a data and policy analyst at the City of Milpitas — that's where I got hooked on using data to drive real decisions.
 
-I've got a few pinned projects below, but my favorite is probably the [Car Sales Dashboard](#) — 24K+ records, SQL backend, Tableau front-end. Good time.
+I've got a few pinned projects below, but my favorite is probably the [Car Sales Dashboard](https://public.tableau.com/views/CarSalesDashboard_17587662059070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) — 24K+ records, SQL backend, Tableau front-end. Good time.
 
 If you want to see more of my work, [my portfolio is here](#).
 
